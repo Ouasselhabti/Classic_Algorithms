@@ -11,15 +11,12 @@ void logisticRegression(double** X, double* y, int m, int n, double* weights);
 int kNearestNeighbors(double** X_train, int* y_train, double* x_test, int m, int n, int k);
 
 // Function to build a Decision Tree for classification
-// You may want to use a library or existing code for Decision Trees
 
 // Function to perform Support Vector Machine (SVM) classification
-// You may want to use a library or existing code for SVM
 
 // Function to perform Principal Component Analysis (PCA) for dimensionality reduction
 void principalComponentAnalysis(double** X, int m, int n, int num_components, double** pca_result);
 
 // Function to perform k-Means Clustering
-// You may want to use a library or existing code for k-Means
 
 #endif
