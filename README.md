@@ -1,5 +1,4 @@
 # Classic_Algorithms
-# Algorithms Portfolio
 
 This repository contains implementations of various algorithms and data structures in C. Each algorithm is organized into folders, and there's a build.sh file in each folder to compile and run the code.
 
