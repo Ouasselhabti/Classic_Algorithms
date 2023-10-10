@@ -1,0 +1,1 @@
+Add for insert functions other functions to insert lelement directly.
